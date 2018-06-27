@@ -22,6 +22,7 @@ def main():
     length = len(mydict)
     print("length is now " + str(length))
 
+    return 0
 
 if __name__ == "__main__":
     main()
